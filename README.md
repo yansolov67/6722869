@@ -6,4 +6,6 @@
 - [Основы редактирования текста](/Text.md)
 - [Markdown](/Markdown.md)
 - [Mermaid](/mermaind.md)
-- [bashcli](/bashcli.md)
+- [Bashcli](/bashcli.md)
+- [Bash](/bash.md)
+- [Git](/Git.md)
