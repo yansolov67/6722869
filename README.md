@@ -10,4 +10,4 @@
 - [Bash](/bash.md)
 - [Git](/Git.md)
 
-Data 12.10.202
+Data 12.10.2026
