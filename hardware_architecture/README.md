@@ -1,0 +1,1 @@
+[Контрольная работа №1](/hardware_architecture/Markdown.md)
