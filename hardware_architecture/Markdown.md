@@ -31,6 +31,7 @@
 Ответ: утверждение неверно.
 3. Логическое выражение
 Дано:
+```mermaind
 (X`\land `{=tex}Z)`\land`{=tex}
 (`\overline `{=tex}Z`\lor`{=tex}`\overline `{=tex}X`\lor `{=tex}Y) \]
 
@@ -59,3 +60,4 @@
 **Ответ:**
 
 \[ `\boxed{X\lor Y}`{=tex} \]
+```
