@@ -11,3 +11,6 @@
 - [Git](/Git.md)
 
 Data 12.10.2026
+
+- [Violet Studio — сайт креативной студии](https://github.com/yansolov67/New_site)
+- [Faculty repository](https://github.com/rurewa/imfua)
