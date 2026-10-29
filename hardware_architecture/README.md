@@ -1,1 +1,1 @@
-[Контрольная работа №1 ДЗ](/hardware_architecture/Markdown.md)
+[Контрольная работа №16 ДЗ](/hardware_architecture/Markdown.md)
