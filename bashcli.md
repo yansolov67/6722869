@@ -12,6 +12,7 @@ Ctrl+L
 ```shell
 clear
 ```
+Сбросить текущий терминал
 ```shell
 reset
 ```
