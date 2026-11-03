@@ -11,8 +11,11 @@
 - [Git](/Git.md)
 - [Docker](/DockerReminder.md)
 - [WelcomeToDocker](/WelcomeToDocker.md)
+
 Data 12.10.2026
 
+```mermaid
 - [Violet Studio — сайт креативной студии](https://github.com/yansolov67/New_site)
 - [Faculty repository](https://github.com/rurewa/imfua)
 - [teamwork](https://github.com/SiReXu/Cybermfua)
+```
