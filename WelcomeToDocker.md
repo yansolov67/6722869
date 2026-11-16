@@ -33,6 +33,7 @@ docker run -d -p 8088:80 --name welcome-to-docker docker/welcome-to-docker
 
 [Открыть http://localhost:8088 в браузере](http://localhost:8088)
 
+![](/img/WTD1.png)
 
 Зайти в контейнер
 ```shell
@@ -52,13 +53,22 @@ uname -a
 ```shell
 cat /etc/os-release
 ```
+
+![](/img/WTD2.png)
+
 Диспетчер ресурсов
 ```shell
 top
 ```
+
+![](/img/WTD3.png)
+
 ```shell
 tree
 ```
+![](/img/WTD4.png)
+
+
 Обновить источники приложений
 ```shell
 apk update && apk upgrade
@@ -71,6 +81,9 @@ apk add fastfetch
 ```shell
 fastfetch
 ```
+
+![](/img/WTD5.png)
+
 Выйти из контейнера
 ```shell
 exit
