@@ -12,6 +12,7 @@
 - [Docker](/DockerReminder.md)
 - [WelcomeToDocker](/WelcomeToDocker.md)
 - [LibreDB](/LibreDB.md)
+- [ollama](/Docker/ollama.md)
 
 Data 12.10.2026
 
